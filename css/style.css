@@ -1,0 +1,45 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+}
+
+.title_logo {
+	max-width: 120px;
+}
+
+.title {
+	color: #666666;
+	font-size: 96px;
+	text-align: right;
+	font-family: "Lucia Grande", sans-serif;
+}
+
+.images {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 300px;
+	padding-top: 21px;
+			
+}
+
+.header {
+ 	border-bottom: 5px solid #BCBBBB;
+ 	margin-bottom: 5%;
+}
+
+.img_descriptions {
+	text-align: center;
+	color: #666666;
+	font-family: "Lucia Grande", sans-serif;
+}
+
+.title2 {
+	text-align: left;
+	margin-left: 50px;
+	color: #666666;
+	font-family: "Lucia Grande", sans-serif;
+}
